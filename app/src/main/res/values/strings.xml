@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Activity lifecycle java</string>
+    <string name="second">second</string>
 </resources>
